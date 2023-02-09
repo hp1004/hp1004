@@ -9,10 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [linktr.ee/uiux.harshal](linktr.ee/uiux.harshal)
 
-- 📝 I regularly write articles on [https://medium.com/@uiux.harshal https://medium.com/@uiux.harshal](https://medium.com/@uiux.harshal https://medium.com/@uiux.harshal)
-
-- 📫 How to reach me **https://www.linkedin.com/in/harshal-patil-2003hp**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harshal-patil-2003hp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-patil-2003hp" height="30" width="40" /></a>
