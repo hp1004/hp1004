@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web Development.**
 
-- 👨‍💻 All of my projects are available at [linktr.ee/uiux.harshal](https://harshal-portfolio-v1.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://harshal-portfolio-v1.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
